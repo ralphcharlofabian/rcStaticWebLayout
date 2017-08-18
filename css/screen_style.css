@@ -1,0 +1,331 @@
+@charset "UTF-8";
+
+body {
+	color:#575c7a;
+	line-height:1.5em;
+	font-family:Arial;
+	font-size:14px;
+	background:#2C3E50 url(../images/optimized-background3.jpg) repeat 0px 0px ; 
+	width:100%;
+}
+
+.page{
+	max-width:980px;
+	margin: 0px auto 0px auto;
+	position:relative;
+	background-color:#EEEEEE;
+	box-shadow: 1px 1px 5px grey;
+	
+}
+
+.contact_paper img  {
+    width: 100%;
+    height: auto;
+}
+
+.vision img  {
+    width: 100%;
+    height: auto;
+}
+
+.skill_content img  {
+    width: 100%;
+    height: auto;
+	background-size: 150px 110px;
+}
+
+
+h1 {
+	font-size:2em !important;
+	font-weight:normal;
+	color:#2C3E50;
+	margin: 0 0 .5em 0;	
+}
+
+h2 {
+	font-size:1.7em !important;
+	font-weight:normal;
+	margin: 0 0 1em 0;	
+}
+h3 {
+	font-size:1.3em !important;
+	font-weight:bold !important;
+	margin: 0 0 1em 0!important;	
+}
+
+h4 {
+	font-size:1.1em !important;
+	font-weight:bold !important;
+	
+		
+}
+p{margin: 0 0 .75em 0;}
+
+
+
+.smart a:hover { color:#19B5FE;}
+.smart a:link, a:visited {
+
+    color:#6C7A89;
+
+
+}
+footer {
+	font-size:.85em;
+	color:#9ba0bd;
+	background-color:575c7a;
+	padding: 10px 10px 10px 10px;
+}
+
+
+
+.experience p {
+	line-height:1.7em; 
+	font-size: 0.9em; 
+	margin-bottom: 0.5em;
+}
+
+.experience {background-repeat:no-repeat;}
+
+.experience.denso{background-image:url(../images/denso.png);background-size: 200px 50px;}
+.experience.smart{background-image:url(../images/smart.png);background-size: 200px 50px;}
+
+nav a{
+	color:#F2F1EF;
+	text-transform:uppercase;
+	text-decoration:none;
+	display:inline-block;
+	font-weight:bold;
+	font-size:.9em;
+}
+
+nav a:hover {
+	color:#19B5FE;
+	
+}
+
+.experience-others{
+	font-size: 1em;
+	line-height:1.5em; 
+	
+}
+.experience-others p.introduction {
+	
+	line-height:1.5em; 
+	font-weight:normal;
+	
+}
+
+.experience-others a:link, a:visited {
+    background-color: #D2D7D3;
+
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.experience-others a:hover, a:active {
+    background-color:#BDC3C7;
+}
+
+
+.clear-fix {clear:both;line-height:1px;}
+
+.page2 {
+	max-width:980px;
+	margin: 0px auto 0px auto;
+	position:relative;
+	background-color:#F2F1EF;
+	box-shadow: 1px 2px 5px grey;
+}
+
+.page3 {
+	max-width:980px;
+	margin: 0px auto 0px auto;
+	position:relative;
+	background-color:#F2F1EF;
+	box-shadow: 1px 2px 5px grey;
+}
+
+.page4 {
+	max-width:980px;
+	margin: 0px auto 0px auto;
+	position:relative;
+	background-color:#F2F1EF;
+	box-shadow: 1px 2px 5px grey;
+}
+
+.page5 {
+	max-width:980px;
+	margin: 0px auto 0px auto;
+	position:relative;
+	background-color:#F2F1EF;
+	box-shadow: 1px 2px 5px grey;
+}
+.one{
+background-image:url(../images/debug.png);
+background-size: 150px 110px;
+background-repeat:no-repeat;
+text-align:center;
+
+}
+.skill_content .one{
+background-repeat:no-repeat;
+}
+.one p{
+	line-height:1.5em; 
+	font-weight:normal;
+	
+}
+.one h4{
+	padding-top:100px;
+	line-height:1.5em; 
+	font-weight:normal;
+	margin-bottom:10px;
+	
+}
+
+.two{
+background-image:url(../images/strat.png);
+background-size: 150px 110px;
+background-repeat:no-repeat;
+
+}
+.skill_content .two{
+background-repeat:no-repeat;
+}
+.two p{
+	line-height:1.5em; 
+	font-weight:normal;
+	
+}
+.two h4{
+	padding-top:100px;
+	line-height:1.5em; 
+	font-weight:normal;
+	margin-bottom:10px;
+	
+}
+
+.three{
+background-image:url(../images/id.png);
+background-size: 150px 110px;
+background-repeat:no-repeat;
+
+}
+.skill_content .three{
+background-repeat:no-repeat;
+}
+.three p{
+	line-height:1.5em; 
+	font-weight:normal;
+	
+}
+.three h4{
+	padding-top:100px;
+	line-height:1.5em; 
+	font-weight:normal;
+	margin-bottom:10px;
+	
+}
+
+
+
+.four{
+background-image:url(../images/response.png);
+background-size: 150px 110px;
+background-repeat:no-repeat;
+
+}
+.skill_content .four{
+background-repeat:no-repeat;
+}
+.four p{
+	line-height:1.5em; 
+	font-weight:normal;
+	
+}
+.four h4{
+	padding-top:100px;
+	line-height:1.5em; 
+	font-weight:normal;
+	margin-bottom:10px;
+	
+}
+
+
+.five{
+background-image:url(../images/smiley.png);
+background-size: 150px 110px;
+background-repeat:no-repeat;
+
+}
+.skill_content .five{
+background-repeat:no-repeat;
+}
+.five p{
+	line-height:1.5em; 
+	font-weight:normal;
+	
+}
+.five h4{
+	padding-top:100px;
+	line-height:1.5em; 
+	font-weight:normal;
+	margin-bottom:10px;
+	
+}
+
+
+.six{
+background-image:url(../images/box.png);
+background-size: 150px 110px;
+background-repeat:no-repeat;
+
+}
+.skill_content .six{
+background-repeat:no-repeat;
+}
+.six p{
+	line-height:1.5em; 
+	font-weight:normal;
+	
+}
+.six h4{
+	padding-top:100px;
+	line-height:1.5em; 
+	font-weight:normal;
+	margin-bottom:10px;
+	
+}
+
+
+
+
+
+
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+ 
+.fade-in {
+	opacity:0;  /* make things invisible upon start */
+	-webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+	-moz-animation:fadeIn ease-in 1;
+	animation:fadeIn ease-in 1;
+ 
+	-webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+ 
+	-webkit-animation-duration:2s;
+	-moz-animation-duration:2s;
+	animation-duration:2s;
+}
+
+.vision p {
+	margin-top:5%;
+}
+
+
